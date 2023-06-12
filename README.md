@@ -7,3 +7,8 @@
 | CAI-JIE LI (李采潔)   |             |under review|                     ||                 |
 | YEN-CHEN KAO (高硯晨) |             |under review|                     ||                 |
 | CHIA-YU CHENG (鄭佳郁) |             |                 |                     |     |                 |
+
+
+**粗體**: 筆者推的成員（上限兩人）
+
+under review: 論文已提交，正在審稿中
