@@ -1,4 +1,4 @@
-| member name   | paper title | acceptance date | conference info | URL | notes |
+| member name   | paper title | acceptance date | conference info | paper URL | notes |
 |---------------|-------------|-----------------|---------------------|-----|-----------------|
 | **Yi-Chia Wang (王逸嘉)**  |             |                 |                     |     |                 |
 | **Tzu-Yi Pan (潘姿怡)**    ||under review| |     |                 |
