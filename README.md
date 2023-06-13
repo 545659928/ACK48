@@ -1,4 +1,4 @@
-| member name   | paper title | acceptance date | conference info | URL | acknowledgement |
+| member name   | paper title | acceptance date | conference info | URL | notes |
 |---------------|-------------|-----------------|---------------------|-----|-----------------|
 | **Yi-Chia Wang (王逸嘉)**  |             |                 |                     |     |                 |
 | **Tzu-Yi Pan (潘姿怡)**    ||under review| |     |                 |
@@ -7,8 +7,10 @@
 | CAI-JIE LI (李采潔)   |             |under review|                     ||                 |
 | YEN-CHEN KAO (高硯晨) |             |under review|                     ||                 |
 | CHIA-YU CHENG (鄭佳郁) |             |                 |                     |     |                 |
+| ZIH-SYUAN TUNG (董子瑄) |             |                 |                     |     |                 |
 
-
-**粗體**: 筆者推的成員（上限兩人）
+**粗體**: 筆者的推
 
 under review: 論文已提交，正在審稿中
+
+投稿筆記：Mina（切片），瑞婷（shield），采潔（駕考），晨晨（目標檢測），（TSC），（彈性？），（TOR），子瑄（作曲評價）
