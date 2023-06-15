@@ -8,11 +8,17 @@
 | YEN-CHEN KAO (高硯晨) |             ||                     ||                 |
 | CHIA-YU CHENG (鄭佳郁) |             |under review|                     |     |                 |
 | ZIH-SYUAN TUNG (董子瑄) |             |                 |                     |     |                 |
-| MIREI OYAMA(小山美玲) |             |                 |                     |     |                 |
+| HIU-CHING LAU(劉曉晴)|             |                 |                     |     |                 |
+| JIA-LI LI(李佳俐)|             |                 |                     |     |                 |
+| JIA-YU ZHOU (周佳郁)|             |                 |                     |     |                 |
+| YU-HSIN LIN (林于馨)|             |                 |                     |     |                 |
+| CHIEH-HSIN LIN(林潔心)|             |                 |                     |     |                 |
+| YUN-JUE GAO(高云珏)|             |                 |                     |     |                 |
+| ()|             |                 |                     |     |                 |
 
 
-**粗體**: 筆者的推（筆者自我規定最多只能推2位）
+**粗體**: 筆者的推（max=2)
 
 under review: 論文已提交，正在審稿中
 
-投稿筆記：Mina（切片），瑞婷（shield），采潔（駕考），鄭佳郁（目標檢測），（TSC），（彈性？），（TOR），子瑄（作曲評價）
+審稿備註：Mina（切片），瑞婷（shield），采潔（駕考），鄭佳郁（目標檢測），（TSC），（彈性？），（TOR），子瑄（作曲評價）
