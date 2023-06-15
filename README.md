@@ -22,3 +22,7 @@
 under review: 論文已提交，正在審稿中
 
 審稿備註：Mina（切片），瑞婷（shield），采潔（駕考），鄭佳郁（目標檢測），（TSC），（彈性？），（TOR），子瑄（作曲評價）
+
+Request for full text? contact me via lijialong[at]fuji[dot]waseda[dot]jp
+
+
