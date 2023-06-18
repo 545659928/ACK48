@@ -1,6 +1,6 @@
 This project summarizes the information of the acknowledgment from the author to TTP members.
 
-| member name   | paper title | submission date of camera ready| conference or Journal info | paper URL | notes |
+| member name   | paper title | submission date of camera ready| conference venue or Journal name | paper URL | notes |
 |---------------|-------------|-----------------|---------------------|-----|-----------------|
 | **Yi-Chia Wang (王逸嘉)**  |             |                 |                     |     |逸嘉かわー|
 | **Tzu-Yi Pan (潘姿怡)**    ||under review| |     |                 |
