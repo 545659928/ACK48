@@ -21,7 +21,7 @@
 
 under review: 論文已提交，正在審稿中
 
-審稿備註：Mina（切片），晨晨（shield），佳俐（駕考），鄭佳郁（目標檢測），瑞婷（TSC），（彈性？），采潔（TOR），子瑄（作曲評價）
+審稿備註：Mina（切片），晨晨（shield），佳俐（駕考），鄭佳郁（目標檢測），瑞婷（TSC），（彈性？），采潔（TOR），子瑄（作曲評價），（震動評價），逸嘉（需求驅動尋路），逸嘉（音樂創作（完全沒時間寫））
 
 Welcome partners or fans who are willing to commit to this project. Feel free to contact me (Chinese, English, Japanese).
 
