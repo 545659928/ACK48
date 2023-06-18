@@ -24,9 +24,9 @@ This project summarizes the information in the acknowledgment from the author to
 
 under review: 論文已提交，正在審稿中
 
-review and submission plan：晨晨（shield），潔心（written-test），鄭佳郁（goal monitor），瑞婷（TSC），（MAS resilience），采潔（TOR），逸嘉（req-driven path-finding），逸嘉（music creation（完全沒時間寫TAT）），云珏（vibration evaluation）
+review and submission plan（一期畢業生）：晨晨（shield），潔心（written-test），鄭佳郁（goal monitor），瑞婷（TSC），（MAS resilience），采潔（TOR），逸嘉（req-driven path-finding），逸嘉（music creation（完全沒時間寫TAT）），云珏（vibration evaluation）
 
-review and submission plan：Mina（slicing），子瑄（music evaluation）
+review and submission plan（其他）：Mina（slicing），子瑄（music evaluation）
 
 Looking for partners or fans who are willing to commit to this project (不會寫論文也沒關係，最好是有對成員比較熟悉的大佬，筆者認識的成員太少了TAT). Feel free to contact me (in Chinese, English, or Japanese).
 
