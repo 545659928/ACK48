@@ -1,6 +1,8 @@
+This project summarizes the information of the acknowledgment from the author to TTP members.
+
 | member name   | paper title | submission date of camera ready| conference info | paper URL | notes |
 |---------------|-------------|-----------------|---------------------|-----|-----------------|
-| **Yi-Chia Wang (王逸嘉)**  |             |                 |                     |     |                 |
+| **Yi-Chia Wang (王逸嘉)**  |             |                 |                     |     |逸嘉かわー|
 | **Tzu-Yi Pan (潘姿怡)**    ||under review| |     |                 |
 | YA-EN TSAI (蔡亞恩) | Value Iteration Networks with Gated Summarization Module | 2023/06/14 | Journal (IEEE ACCESS) |     |1st member of ACK48(笑)|
 | JUI-TING LO (羅瑞婷)   |             |under review|                     ||                 |
