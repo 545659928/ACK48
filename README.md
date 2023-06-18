@@ -1,8 +1,8 @@
-| member name   | paper title | acceptance date | conference info | paper URL | notes |
+| member name   | paper title | submission date of camera ready| conference info | paper URL | notes |
 |---------------|-------------|-----------------|---------------------|-----|-----------------|
 | **Yi-Chia Wang (王逸嘉)**  |             |                 |                     |     |                 |
 | **Tzu-Yi Pan (潘姿怡)**    ||under review| |     |                 |
-| YA-EN TSAI (蔡亞恩) | Value Iteration Networks with Gated Summarization Module | 2023/06/05 | Journal (IEEE ACCESS) |     |                 |
+| YA-EN TSAI (蔡亞恩) | Value Iteration Networks with Gated Summarization Module | 2023/06/14 | Journal (IEEE ACCESS) |     |1st member of ACK48(笑)|
 | JUI-TING LO (羅瑞婷)   |             |under review|                     ||                 |
 | CAI-JIE LI (李采潔)   |             |under review|                     ||                 |
 | YEN-CHEN KAO (高硯晨) |             |under review|                     ||                 |
@@ -17,11 +17,12 @@
 | ()|             |                 |                     |     |                 |
 
 
-**粗體**: 筆者的推（max=2)
+**粗體**: 筆者的推（max=2)，雖然很想加推(笑)
 
 under review: 論文已提交，正在審稿中
 
 審稿備註：Mina（切片），晨晨（shield），佳俐（駕考），鄭佳郁（目標檢測），瑞婷（TSC），（彈性？），采潔（TOR），子瑄（作曲評價）
 
-Request for full text? contact me via lijialong[at]fuji[dot]waseda[dot]jp
+Welcome partners or fans who are willing to commit to this project. Feel free to contact me (Chinese, English, Japanese).
 
+Contact: lijialong[at]fuji[dot]waseda[dot]jp
