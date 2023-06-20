@@ -2,15 +2,15 @@ This project summarizes the information in the acknowledgment from the author to
 
 | member name   | paper title | progress| conference venue or Journal name | paper URL | notes |
 |---------------|-------------|-----------------|---------------------|-----|-----------------|
-| **Yi-Chia Wang (王逸嘉)**  ||plan to submit on July 9|                     |     |逸嘉かわー|
+| **Yi-Chia Wang (王逸嘉)**  ||plan to submit on July 20 targeting top conference|                     |     |逸嘉かわー|
 | JUI-TING LO (羅瑞婷)   |             |under review|                     ||                 |
 | CAI-JIE LI (李采潔)   |             |plan to submit on July 3|                     ||                 |
 | YEN-CHEN KAO (高硯晨) |             |under review|                     ||                 |
-| CHIA-YU CHENG (鄭佳郁) |             |under review|                     |     |                 |
+| CHIA-YU CHENG (鄭佳郁) |             |under review (top conference)|                     |     |                 |
 | CHIEH-HSIN LIN(林潔心)|             |under review|                     |     |                 |
 | YUN-JUE GAO(高云珏)|             |plan to submit on Aug 20|                     |     |                 |
 | ----以上一期畢業生----|             |                 |                     |     |                 |
-| **Tzu-Yi Pan (潘姿怡)**    ||plan to submit on June 30                     |     |                 |
+| **Tzu-Yi Pan (潘姿怡)**    ||plan to submit on June 30 targeting top conferenc|     |                 |
 | YA-EN TSAI (蔡亞恩) | Value Iteration Networks with Gated Summarization Module | early published on 2023/06/14 | Journal (IEEE ACCESS) |     |1st member (笑)|
 | ZIH-SYUAN TUNG (董子瑄) |             |plan to submit on Aug 20|                     |     |                 |
 | HIU-CHING LAU(劉曉晴)|             |                 |                     |     |                 |
