@@ -6,7 +6,7 @@ This project summarizes the information in the acknowledgment from the author to
 | JUI-TING LO (羅瑞婷)   |             |under review|                     ||                 |
 | CAI-JIE LI (李采潔)   |             |plan to submit on July 3|                     ||                 |
 | YEN-CHEN KAO (高硯晨) |             |under review|                     ||                 |
-| CHIA-YU CHENG (鄭佳郁) |             |under review|                     |     |                 |
+| CHIA-YU CHENG (鄭佳郁) |             |rejected on June 24|                     |     |                 |
 | CHIEH-HSIN LIN(林潔心)|             |under review|                     |     |                 |
 | YUN-JUE GAO(高云珏)|             |plan to submit on Aug 20|                     |     |                 |
 | ----以上一期畢業生----|             |                 |                     |     |                 |
