@@ -11,7 +11,7 @@ This project summarizes the information in the acknowledgment from the author to
 | YUN-JUE GAO(高云珏)|             |plan to submit on Aug 20|                     |     |                 |
 | ----以上一期畢業生----|             |                 |                     |     |                 |
 | **Tzu-Yi Pan (潘姿怡)**    ||plan to submit on June 30|     |                 |
-| YA-EN TSAI (蔡亞恩) | Value Iteration Networks with Gated Summarization Module | early published on 2023/06/14 | Journal (IEEE ACCESS) |     |1st member (笑)|
+| YA-EN TSAI (蔡亞恩) | Value Iteration Networks with Gated Summarization Module | published on 2023/06/23 | Journal (IEEE ACCESS) |     |1st member (笑)|
 | ZIH-SYUAN TUNG (董子瑄) |             |plan to submit on Aug 20|                     |     |                 |
 | HIU-CHING LAU(劉曉晴)|             |                 |                     |     |                 |
 | JIA-LI LI(李佳俐)|             ||                     |     |                 |
