@@ -22,6 +22,8 @@ This repository is for ACK, a project to deliver acknowledgements from the autho
 
 **粗體**: 筆者的推（max=2)，雖然很想加推(笑)
 
+* on paper title: * refers that the author is the first author (第一作者), # refers to the correspondence author (通訊作者).
+
 submission notes（一期畢業生）：晨晨（shield），潔心（written-test），鄭佳郁（goal monitor），瑞婷（TSC），（MAS resilience），采潔（TOR），逸嘉（models@runtime DCS），逸嘉（iterative music（最近沒時間寫，估計得等到1+畢業後寫了）），云珏（vibration evaluation）
 
 submission notes（其他）：Mina（slicing），子瑄（rock evaluation?）
