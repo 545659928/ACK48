@@ -28,4 +28,4 @@ Contact: lijialong[at]fuji[dot]waseda[dot]jp
 
 submission notes（一期畢業生）：晨晨（shield），潔心（written-test），鄭佳郁（goal monitor），瑞婷（TSC），（MAS resilience），采潔（TOR），逸嘉（models@runtime DCS），逸嘉（iterative music（最近沒時間寫，估計得等到1+畢業後寫了）），云珏（vibration evaluation）
 
-submission notes（其他）：Mina（slicing），子瑄（rock evaluation?）
+submission notes（其他）：Mina（slicing），子瑄（rock evaluation?）, 佳俐 ()
