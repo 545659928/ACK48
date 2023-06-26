@@ -1,4 +1,4 @@
-This project summarizes the information in the acknowledgment from the author to TTP members.
+This repository is for ACK, a project to deliver acknowledgements from the author to TTP members.
 
 | member name   | paper title | progress| conference venue or Journal name | paper URL | notes |
 |---------------|-------------|-----------------|---------------------|-----|-----------------|
