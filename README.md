@@ -22,7 +22,7 @@ This repository is for ACK, a project to deliver acknowledgements from the autho
 
 **粗體**: 筆者的推（max=2)，雖然很想加推(笑)
 
-others: MAS, vibration pattern
+others: MAS, (vibration pattern, sensor fusion, )
 
 ACK committee member(IG): @shajijijiji, and looking for partners or fans who are willing to commit to this project. 歡迎會寫論文的大佬來提供文章素材，也歡迎單推&DD的大佬來提供想成員和致謝信息（筆者認識的成員太少了TAT）. Feel free to contact me in Chinese, English, or Japanese.
 
