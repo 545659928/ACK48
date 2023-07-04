@@ -9,7 +9,7 @@ This repository is for ACK, a project to deliver acknowledgements from the autho
 |  CHIEH-HSIN LIN<br>林潔心  |                                                          | under review                                 |                                  | written test |
 |    YUN-JUE GAO<br>高云珏   |                                                          | plan to submit on Aug 20                     |                                  | music test |
 |    TIK-KEI SIN<br>冼迪琦   |                                                          | plan to submit on Aug 20                     |                                  |              |
-|   ----以上一期畢業生----   |                                                          |                                              |                                  |              |
+|   --以上一期畢業生--<br>對不起筆者實在寫不動了QAQ   |                                                          |                                              |                                  |              |
 |  **Tzu-Yi Pan<br>潘姿怡**  |                                                          | plan to submit on July 8<br>notification on July 28|                                  | Slicing |
 |    YA-EN TSAI<br>蔡亞恩    | Value Iteration Networks with Gated Summarization Module | published on 2023/06/23                      | IEEE ACCESS<br>(Journal)              | 1st accepted |
 |  ZIH-SYUAN TUNG<br>董子瑄  |                                                          |                                              |                                  |              |
