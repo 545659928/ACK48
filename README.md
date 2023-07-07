@@ -2,11 +2,11 @@ This repository is for ACK, a project to deliver acknowledgements from the autho
 |         member name        | paper title                                              | progress                                     | conference or Journal | notes        |
 |:--------------------------:|----------------------------------------------------------|----------------------------------------------|----------------------------------|--------------|
 | **Yi-Chia Wang<br>王逸嘉** |                                                          | plan to submit on July 9                     |                                  | DCSRobot|
-|    JUI-TING LO<br>羅瑞婷   |                                                          | under review                                 |                                  | IRL4TSC|
+|    JUI-TING LO<br>羅瑞婷   |                                                          | accepted on 2023/07/06                                 |                                  ||
 |    CAI-JIE LI<br>李采潔    |                                                          | plan to submit on July 11                     |                                  | audio-visual TOR|
 |   YEN-CHEN KAO<br>高硯晨   |                                                          | under review                                 |                                  |human shield|
 |   CHIA-YU CHENG<br>鄭佳郁  |                                                          | rejected on June 24<br>plan to resubmit in Oct |                                  | 1st rejected |
-|  CHIEH-HSIN LIN<br>林潔心  |                                                          | under review                                 |                                  | written test |
+|  CHIEH-HSIN LIN<br>林潔心  |                                                          | accepted on 2023/07/06                     |                                  | |
 |    YUN-JUE GAO<br>高云珏   |                                                          | plan to submit on Aug 20                     |                                  | music test |
 |    TIK-KEI SIN<br>冼迪琦   |                                                          | plan to submit on Aug 20                     |                                  |              |
 |   --以上一期畢業生--<br>對不起筆者實在寫不動了QAQ   |                                                          |                                              |                                  |              |
