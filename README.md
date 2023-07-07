@@ -1,17 +1,17 @@
 This repository is for ACK, a project to deliver acknowledgements from the author to TTP members.
 |         member name        | paper title                                              | progress                                     | conference or Journal | notes        |
 |:--------------------------:|----------------------------------------------------------|----------------------------------------------|----------------------------------|--------------|
-| **Yi-Chia Wang<br>王逸嘉** |                                                          | plan to submit on July 9                     |                                  | DCSRobot|
 |    JUI-TING LO<br>羅瑞婷   |                                                          | accepted on 2023/07/06                                 |ICITE<br>Oct 2023, Beijing||
+|  CHIEH-HSIN LIN<br>林潔心  |                                                          | accepted on 2023/07/06                     |ICITE<br>Oct 2023, Beijing| |
+| **Yi-Chia Wang<br>王逸嘉** |                                                          | plan to submit on July 9                     |                                  | DCSRobot|
 |    CAI-JIE LI<br>李采潔    |                                                          | plan to submit on July 11                     |                                  | audio-visual TOR|
 |   YEN-CHEN KAO<br>高硯晨   |                                                          | under review                                 |                                  |human shield|
 |   CHIA-YU CHENG<br>鄭佳郁  |                                                          | rejected on June 24<br>plan to resubmit in Oct |                                  | 1st rejected |
-|  CHIEH-HSIN LIN<br>林潔心  |                                                          | accepted on 2023/07/06                     |ICITE<br>Oct 2023, Beijing| |
 |    YUN-JUE GAO<br>高云珏   |                                                          | plan to submit on Aug 20                     |                                  | music test |
 |    TIK-KEI SIN<br>冼迪琦   |                                                          | plan to submit on Aug 20                     |                                  |              |
-|   --以上一期畢業生--<br>對不起筆者實在寫不動了QAQ   |                                                          |                                              |                                  |              |
-|  **Tzu-Yi Pan<br>潘姿怡**  |                                                          | plan to submit on July 8<br>notification on July 28|                                  | Slicing |
+|   ------------------- |                                                          |                                              |                                  |              |
 |    YA-EN TSAI<br>蔡亞恩    | Value Iteration Networks with Gated Summarization Module | published on 2023/06/23                      | IEEE ACCESS<br>(Journal)              | 1st accepted |
+|  **Tzu-Yi Pan<br>潘姿怡**  |                                                          | plan to submit on July 8<br>notification on July 28|                                  | Slicing |
 |  ZIH-SYUAN TUNG<br>董子瑄  |                                                          |                                              |                                  |              |
 |   HIU-CHING LAU<br>劉曉晴  |                                                          |                                              |                                  |              |
 |     JIA-LI LI<br>李佳俐    |                                                          |                                              |                                  |              |
