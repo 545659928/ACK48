@@ -6,7 +6,6 @@ This repository is for ACK, a project to deliver acknowledgements from the autho
 |    JUI-TING LO<br> 羅瑞婷   |           Incremental Reinforcement Learning with Prioritized Sweeping for Traffic Signal Control          |           ICITE<br> Oct 2023, Beijing           |              |
 |  CHIEH-HSIN LIN<br> 林潔心  | Can ChatGPT Obey the Traffic Regulations? Evaluating ChatGPT’s Performance on Driving-license Written Test |           ICITE<br> Oct 2023, Beijing           |              |
 |    YUN-JUE GAO<br> 高云珏   |                                                                                                            |             under review            |    music evaluation    |
-|   YEN-CHEN KAO<br> 高硯晨   |                                                                                                            |             under review           | human shield |
 |     JIA-LI LI<br> 李佳俐    |                                                                                                            |             under review            |   vibration  |
 |   CHIA-YU CHENG<br> 鄭佳郁  |                                                                                                            |   rejected on June 2023<br>plan to resubmit in Oct   | 1st rejected |
 |     -------------------     |                                                                                                            |                                                 |              |
