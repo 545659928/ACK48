@@ -12,7 +12,7 @@ This repository is for ACK, a project to deliver acknowledgements from the autho
 |    YA-EN TSAI<br> 蔡亞恩    |                          Value Iteration Networks with Gated Summarization Module                          | IEEE ACCESS(Journal)<br>published on 2023/06/23 | 1st accepted |
 |  **Tzu-Yi Pan<br> 潘姿怡**  |                   **F'Prism: A Tool for Slicing and Visualizing F’ Software Topologies**                   |           ECSA<br> Sept 2023, Istanbul          |              |
 |  ZIH-SYUAN TUNG<br> 董子瑄  |                                                                                                            |           plan to submit on Oct. 12          |              |
-|   HIU-CHING LAU<br> 劉曉晴  |                                                                                                            |           plan to submit on Oct. 6           |              |
+|   HIU-CHING LAU<br> 劉曉晴  |                                                                                                            |                     |              |
 |    YU-HSIN LIN<br> 林于馨   |                                                                                                            |                                                 |              |
 |    JIA-YU ZHOU<br> 周佳郁   |                                                                                                            |                                                 |              |
 |                             |                                                                                                            |                                                 |              |
