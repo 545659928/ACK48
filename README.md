@@ -5,15 +5,15 @@ This repository is for ACK, a project to deliver acknowledgements from the autho
 |    CAI-JIE LI<br> 李采潔    |          Designing Visual-auditory Attention-guiding Takeover Request for Semi-autonomous Driving          |        ICCE-Berlin<br> Sept 2023, Berlin        |              |
 |    JUI-TING LO<br> 羅瑞婷   |           Incremental Reinforcement Learning with Prioritized Sweeping for Traffic Signal Control          |           ICITE<br> Oct 2023, Beijing           |              |
 |  CHIEH-HSIN LIN<br> 林潔心  | Can ChatGPT Obey the Traffic Regulations? Evaluating ChatGPT’s Performance on Driving-license Written Test |           ICITE<br> Oct 2023, Beijing           |              |
-|    YUN-JUE GAO<br> 高云珏   |                                                                                                            |             plan to submit on Aug 17            |    fusion    |
-|   YEN-CHEN KAO<br> 高硯晨   |                                                                                                            |             plan to submit on Aug 20            | human shield |
-|     JIA-LI LI<br> 李佳俐    |                                                                                                            |             plan to submit on Aug 20            |   vibration  |
+|    YUN-JUE GAO<br> 高云珏   |                                                                                                            |             under review            |    music evaluation    |
+|   YEN-CHEN KAO<br> 高硯晨   |                                                                                                            |             under review           | human shield |
+|     JIA-LI LI<br> 李佳俐    |                                                                                                            |             under review            |   vibration  |
 |   CHIA-YU CHENG<br> 鄭佳郁  |                                                                                                            |   rejected on June 2023<br>plan to resubmit in Oct   | 1st rejected |
 |     -------------------     |                                                                                                            |                                                 |              |
 |    YA-EN TSAI<br> 蔡亞恩    |                          Value Iteration Networks with Gated Summarization Module                          | IEEE ACCESS(Journal)<br>published on 2023/06/23 | 1st accepted |
 |  **Tzu-Yi Pan<br> 潘姿怡**  |                   **F'Prism: A Tool for Slicing and Visualizing F’ Software Topologies**                   |           ECSA<br> Sept 2023, Istanbul          |              |
-|  ZIH-SYUAN TUNG<br> 董子瑄  |                                                                                                            |                                                 |              |
-|   HIU-CHING LAU<br> 劉曉晴  |                                                                                                            |                                                 |              |
+|  ZIH-SYUAN TUNG<br> 董子瑄  |                                                                                                            |           plan to submit on Oct. 12          |              |
+|   HIU-CHING LAU<br> 劉曉晴  |                                                                                                            |           plan to submit on Oct. 6           |              |
 |    YU-HSIN LIN<br> 林于馨   |                                                                                                            |                                                 |              |
 |    JIA-YU ZHOU<br> 周佳郁   |                                                                                                            |                                                 |              |
 |                             |                                                                                                            |                                                 |              |
