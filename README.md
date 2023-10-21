@@ -14,7 +14,7 @@ This repository is for ACK, a project to deliver acknowledgements from the autho
 |  ZIH-SYUAN TUNG<br> 董子瑄  |                                                                                                            |           plan to submit on Oct. 12          |              |
 |   HIU-CHING LAU<br> 劉曉晴  |                                                                                                            |                     |              |
 |    YU-HSIN LIN<br> 林于馨   |                                                                                                            |                                                 |              |
-|    JIA-YU ZHOU<br> 周佳郁   |                                                                                                            |                                                 |              |
+|    TING_LI LIN<br> 林亭莉   |                                                                                                            |                                                 |              |
 |                             |                                                                                                            |                                                 |              |
 
 **粗體 in member name**: 筆者的推（max=2)，雖然很想加推(笑)
